@@ -1,4 +1,5 @@
 # scrapbox-search
+Open bookmark URL you have saved in Scrapbox, directly from Alfred
 
 ## Scripts
 - `search.py`
